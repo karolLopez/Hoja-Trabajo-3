@@ -1,0 +1,3 @@
+Karol	25	A	Otro	338.125
+Jimmy	50	B	Blanco	300
+helen	58	A	Metalizado	330
